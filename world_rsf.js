@@ -1,5 +1,5 @@
 (function(){
-    window[world_rsf] = {
+    window.world_rsf = {
 "type": "FeatureCollection",
 "name": "world_rsf",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
